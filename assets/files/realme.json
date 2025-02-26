@@ -1,0 +1,39 @@
+{
+    "realme": [
+        {
+            "id": 0,
+            "name": "Realme 11",
+            "img": "Realme_11.png",
+            "price": 7390000,
+            "cateId": 6
+        },
+        {
+            "id": 1,
+            "name": "Realme 12X",
+            "img": "Realme_12X.png",
+            "price": 4500000,
+            "cateId": 6
+        },
+        {
+            "id": 2,
+            "name": "Realme 14 Pro",
+            "img": "Realme_14_Pro.png",
+            "price": 9000000,
+            "cateId": 6
+        },
+        {
+            "id": 3,
+            "name": "Realme C25Y",
+            "img": "Realme_C25Y.png",
+            "price": 4300000,
+            "cateId": 6
+        },
+        {
+            "id": 4,
+            "name": "Realme C53",
+            "img": "Realme_C53.png",
+            "price": 4300000,
+            "cateId": 6
+        }
+    ]
+}
